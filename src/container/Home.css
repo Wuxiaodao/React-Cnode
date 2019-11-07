@@ -1,0 +1,17 @@
+.topic-tab{
+    background-color: #80bd01;
+    color:#fff;
+    padding:3px 4px;
+    border-radius:3px;
+    margin:0 10px;
+  }
+  .container {
+    color: #51585c;
+    border-radius: 3px 3px 0 0;
+    padding: 10px;
+    background-color: #f6f6f6;
+    
+}
+.ziti{
+  margin-left:10px;
+}

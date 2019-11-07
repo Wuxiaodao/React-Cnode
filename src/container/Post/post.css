@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.no-padding{
+    padding:0;
+    background-color: #fff;
+    border-radius: 0 0 3px 3px;
+    line-height: 2em;
+}
+.topic_title{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: block;
+}
+.topic_title img{
+    float: left;
+    width: 30px;
+    height:30px;
+
+    border-style: none;
+
+}
+.replay{
+    display: inline-block;
+    text-align: center;
+}
+.put_top{
+    background: #80bd01;
+    padding: 2px 4px;
+}
+.top_title{
+    max-width: 70%;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    line-height: 30px;
+}
